@@ -1,0 +1,19 @@
+
+FASS Benchmark Dataset Freeze Log
+==================================
+Seed: 42
+
+ImageNet:
+  Total in 10 parquets: 35720
+  Used: 30000
+
+COCO:
+  Total available: 45628
+  Used: 40000
+
+CIFAR:
+  Total available: 50000
+  Used: 10000
+
+Total Images Used:
+  80000

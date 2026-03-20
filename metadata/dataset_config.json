@@ -1,0 +1,9 @@
+{
+    "seed": 42,
+    "imagenet_target": 30000,
+    "coco_target": 40000,
+    "cifar_target": 10000,
+    "imagenet_parquet_files_used": 10,
+    "timestamp": "2026-02-13 16:51:58.909690",
+    "benchmark_root": "/content/drive/MyDrive/xai-stability-benchmark"
+}

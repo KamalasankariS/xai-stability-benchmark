@@ -1,0 +1,2 @@
+imagenet_total_available_in_10_parquets,imagenet_used,coco_total_available,coco_used,cifar_total_available,cifar_used,total_images_used
+35720,30000,45628,40000,50000,10000,80000

@@ -1,0 +1,8 @@
+{
+    "seed": 42,
+    "imagenet_target": 30000,
+    "coco_target": 40000,
+    "cifar_target": 10000,
+    "imagenet_parquets_used": 10,
+    "timestamp": "2026-02-13 17:13:09.620530"
+}
