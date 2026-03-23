@@ -99,7 +99,9 @@ Aggregated benchmark results are available in `results/`. Figures used in the pa
 ## Dataset References
 
 CIFAR-10 — Krizhevsky, A. Learning Multiple Layers of Features from Tiny Images, 2009.
+
 ImageNet — Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., & Fei-Fei, L. ImageNet: A Large-Scale Hierarchical Image Database, CVPR 2009.
+
 MS-COCO — Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollár, P., & Zitnick, C. L. Microsoft COCO: Common Objects in Context, ECCV 2014.
 
 ---
