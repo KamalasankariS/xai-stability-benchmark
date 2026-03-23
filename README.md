@@ -14,11 +14,12 @@ This repository contains the full experimental pipeline, datasets, ablation resu
 
 ## Datasets
 
-Experiments are conducted across three standard computer vision benchmarks:
+We evaluate FASS across three standard computer vision benchmarks using fixed, reproducible subsets, with dataset collection and sampling scripts provided in the "Collect_Datasets_Notebooks" directory.
 
-- **CIFAR-10** — 32×32 natural images across 10 categories
-- **ImageNet** — large-scale visual recognition benchmark (1000 classes)
-- **COCO** — complex scene understanding with multi-object images
+Dataset	Total Used	Classes	Resolution	Special Processing
+CIFAR-10	10,000	10	32×32 → 224×224	Upsampling + ImageNet head retained
+ImageNet	40,000	1,000	Native	Subsampled validation set
+MS-COCO	30,000	80	Native	Classification head adapted
 
 Dataset collection notebooks are provided in `Collect Datasets Notebooks/`, and preprocessed dataset splits and metadata are stored in `datasets/` and `metadata/`.
 
